@@ -1,0 +1,167 @@
+/*Header*/
+
+body{
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden; 
+}
+
+.big-heading{
+	font-size: 4rem;
+	
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.head{
+	padding: 20px 0 45px 30px;
+	background-color: #25A8B3;
+	color: #fff;
+}
+
+.head-caption{
+	font-family: 'Source Code Pro', monospace;
+}
+
+.sub-head{
+	text-align: center;
+	background-color: #4FF3FF;
+	color: #fff;
+	font-family: "Source Code Pro", monospace;
+	padding: 5px 0 10px 0;
+	margin-bottom: 0;
+}
+
+/*International*/
+
+.international{
+	background-color: #B3A132;
+	padding-left: 30px;
+}
+
+.international-head{
+	font-family: 'Ubuntu', sans-serif;
+	color: #EFEBD7;
+}
+
+/*Buttons*/
+
+.memebuttons{
+	width: 60%;
+	padding:0;
+	margin: 20px 0 20px 0;
+}
+
+.comedyme{
+	background: url("./images/comedy-me.jpg");
+	height: 117px;
+	width:200px;
+}
+
+.omgwow{
+	background-image: url("./images/omgwow.jpg");
+	height: 117px;
+	width: 200px;
+}
+
+.okay{
+	background: url("./images/okay.jpg");
+	height: 117px;
+	width:200px;
+}
+
+.noice{
+	background: url("./images/noice.jpg");
+	height: 117px;
+	width:200px;
+}
+
+.yeahboy{
+	background: url("./images/yeahboy.jpg");
+	height: 117px;
+	width: 200px;
+}
+
+.goddamn-right{
+	background: url("./images/goddamn-right.jpg");
+	height: 117px;
+	width: 200px;
+
+}
+
+.button-name{
+	color: #EFEBD7;
+	font-weight: bold;
+}
+
+.button-name-ind{
+	color: #B3A132;
+	font-weight: bold;
+}
+
+.button-column{
+	text-align: center;
+	padding: 0;
+	width: 50%;
+	display:block;
+}
+
+.nagarpalika{
+	background: url("./images/nagarpalika.jpg");
+	height: 117px;
+	width: 200px;
+}
+
+.nahi{
+	background: url("./images/nahi.jpg");
+	height: 117px;
+	width:200px;
+}
+
+.nikal-lawde{
+	background: url("./images/nikal-lawde.jpg");
+	height: 117px;
+	width: 200px;
+}
+
+.ruko-zara{
+	background: url("./images/ruko-zara.jpg");
+	height: 117px;
+	width: 200px;
+}
+
+
+/*Indian*/
+
+.indian{
+	background-color: #FFE436;
+	padding-left: 30px;
+}
+
+.indian-head{
+	color: #B3A132;
+	font-family: 'Ubuntu', sans-serif;  
+}
+
+/*footer*/
+
+.foot{
+	background-color:#FF69C3;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.foot-link{
+	color: #fff;
+	font-size: 2rem;
+	margin: 20px;
+}
+
+h4{
+	margin-bottom: 0;
+}
+
+@media (max-width: 564px){
+	body{
+	}
+}
